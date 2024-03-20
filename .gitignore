@@ -13,3 +13,4 @@ files/mohub_oai.json
 __pycache__/
 .DS_Store
 Documents/*.json
+.vscode/*
